@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* we are writing css for the carousal */
+/* the classes are used are present in the react-slick  */
+
+.slick-prev {
+    left: 0% !important;
+    z-index: 1;
+}
+
+.slick-next {
+    right: 0% !important;
+    z-index: 1;
+}

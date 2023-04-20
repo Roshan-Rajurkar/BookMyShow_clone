@@ -1,0 +1,21 @@
+Book My show Clone Planning
+
+//-> We need a reusable carousal
+//-> Hero carousal
+//-> Common carousal
+//-> Cast Carousal(small carousal)
+
+// Pages
+
+//-> Home Page
+//-> Movie Page
+//-> Categories Page
+//-> Auth Page
+//-> RazorPay payment gateway
+
+// Plan how we are building it ?
+
+// Layouts
+// Routes
+// Pages
+// Components
